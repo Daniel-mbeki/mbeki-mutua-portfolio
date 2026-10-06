@@ -4,7 +4,7 @@ Personal professional portfolio website for Mbeki Mutua — ICT Manager, Cyberse
 This repository contains the source code for my personal portfolio website, hosted via **GitHub Pages**.
 
 ## 🌐 Live Website
-[View Portfolio](https://<your-github-username>.github.io/<repository-name>/)
+[View Portfolio](https://daniel-mbeki.github.io/mbeki-mutua-portfolio/)
 
 ## 🛠️ Built With
 * **HTML5**
